@@ -190,7 +190,6 @@ $ make clean
 | Pre-Commit Hooks | Simple code issue identification before submission. |
 | GitHub Actions | CI/CD pipelines. |
 
-
 ## Disclaimer
 
 This prediction service has been developed as the final project of the MLOps Zoomcamp course from DataTalks.Club. It does not provide medical advice and it is intended for informational purposes only. It cannot be considered a substitute for professional medical advice, diagnosis or treatment. Never ignore professional medical advice in seeking treatment because of something you have read here.
